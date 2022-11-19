@@ -1,0 +1,12 @@
+#step1
+SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;
+
+#step2
+START TRANSACTION;
+
+#step3
+SELECT * FROM accounts;
+
+#step4
+
+#step5
