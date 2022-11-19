@@ -1,0 +1,14 @@
+#step1
+SET TRANSACTION ISOLATION LEVEL READ COMMITTED;
+
+#step2
+START TRANSACTION;
+
+#step3
+SELECT * FROM accounts;
+
+#step4
+SELECT * FROM accounts;
+
+#step5
+SELECT * FROM accounts;
